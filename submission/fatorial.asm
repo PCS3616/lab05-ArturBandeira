@@ -22,4 +22,5 @@ DEPOIS      LV /0001
 RETURN      RS /0200
 
 N @ /0100
+N K =5
 RES @ /0102
