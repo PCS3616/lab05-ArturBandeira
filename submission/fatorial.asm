@@ -19,7 +19,7 @@ INICIOLOOP  LD /0300
             JP INICIOLOOP
 DEPOIS      LV /0001
             MM RES
-RETURN     RS /0200
+RETURN      RS /0200
 
 N @ /0100
 RES @ /0102
